@@ -18,14 +18,14 @@ Class Meetings
 
 Webpages
 --------
-**Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
+**Official Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
 **WebAssign:** http://www.webassign.net/  
 
 The course webpage will list the material covered, the assigned homework, test
 dates, and any supplemental material. It will be updated often as we progress
 through the material, so you should check it routinely.  If you have any trouble
 accessing the site or downloading materials from it, please notify the professor
-immediately. 
+immediately.  (Blackboard will only be used to record grades.)
 
 
 Overview of Course Content
@@ -43,7 +43,10 @@ better in MATH 112, 115, 116, or by Precalculus Placement Test.
 
 Textbook
 --------
-Stewart, *Calculus, Early Transcendentals*, 6th ed.  
+[Stewart, *Calculus Early Transcendentals*, 6th ed.](http://click.linksynergy.com/link?id=xEro7OMQWE4&offerid=239662.9780495011668&type=2&murl=http%3A%2F%2Fsearch.barnesandnoble.com%2FCalculus%2FJames-Stewart%2Fe%2F9780495011668)
+ 
+<IMG border=0 src="http://images.barnesandnoble.com/images/71000000/71006981.JPG"></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=xEro7OMQWE4&bids=239662.9780495011668&type=2&subid=0">
+
 Any version of the textbook---e.g., hardcover, paperback, eBook---is fine, but
 *you will need access to the [WebAssign][] online homework system* in order to
 complete your homework assignments. You can purchase access directly through the
