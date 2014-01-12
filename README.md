@@ -1,18 +1,17 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Math 141: Calculus I, Spring 2014](#math-141-calculus-i-spring-2014)
-	- [Class Meetings](#class-meetings)
-	- [Overview, Prerequisites, Outcomes, Accessibility](#overview-prerequisites-outcomes-accessibility)
-	- [Textbook](#textbook)
-	- [Exams](#exams)
-	- [Homework](#homework)
-	- [Make-up Policy](#make-up-policy)
-	- [Grading Policy](#grading-policy)
-	- [Attendance](#attendance)
-	- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
-	- [Academic Honesty](#academic-honesty)
-	- [Supplemental Instruction and Tutoring](#supplemental-instruction-and-tutoring)
-	- [Important Dates](#important-dates)
+- [Class Meetings](#class-meetings)
+- [Overview, Prerequisites, Outcomes, Accessibility](#overview-prerequisites-outcomes-accessibility)
+- [Textbook](#textbook)
+- [Exams](#exams)
+- [Homework](#homework)
+- [Make-up Policy](#make-up-policy)
+- [Grading Policy](#grading-policy)
+- [Attendance](#attendance)
+- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+- [Academic Honesty](#academic-honesty)
+- [Supplemental Instruction and Tutoring](#supplemental-instruction-and-tutoring)
+- [Important Dates](#important-dates)
 
 Math 141: Calculus I, Spring 2014
 =================================
@@ -70,7 +69,7 @@ This link is only provided for your reference.
 Any version of the textbook---e.g., hardcover, paperback, eBook---is fine, but
 *you will need access to the [WebAssign][] online homework system* in order to
 complete your homework assignments. You can purchase access directly through the
-[WebAssign website][], but it may be more economical to buy a hardcopy of the
+[WebAssign website][], but it may be more economical to buy a hard copy of the
 book that comes bundled with a WebAssign access code. Such bundles are available
 in the university bookstore. 
 
@@ -78,8 +77,8 @@ in the university bookstore.
 purchase it separately from the [WebAssign website][], or as part of a textbook
 bundle at the university bookstore.  Note that, since WebAssign access provides
 you with a (somewhat restrictive) electronic version of the textbook, it is not
-absolutely necessary to purchase a hardcopy of the book.  However, it is highly
-recommended that you have a hardcopy, or at least an electronic version that you
+absolutely necessary to purchase a hard copy of the book.  However, it is highly
+recommended that you have a hard copy, or at least an electronic version that you
 can view on a tablet when studying in the library.  If you limit yourself to the
 electronic access to the text that is provided through WebAssign, it is likely
 that you will not find this access very convenient and, as a result, you might
@@ -166,7 +165,7 @@ Silence and refrain from using all electronic devices (phones, ipods, tablets,
 microwave ovens, etc.) during class and exam periods.  The only exception to
 this policy is the use of computers or tablets for the purpose of referring to
 an electronic copy of the textbook, or the online (WebAssign) homework
-problems. Using a computer during lecture to check your FaceBook account, for
+problems. Using a computer during lecture to check your Facebook account, for
 example, will not be tolerated.  Besides preventing you from learning, it is
 disturbing to other students. 
 
