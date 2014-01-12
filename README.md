@@ -3,32 +3,23 @@ Math 141: Calculus I, Spring 2014
 
 Basic info
 ----------
-**Instructor:** William DeMeo
-
-**Email:** williamdemeo@gmail.com
-
-**Office:** LeConte College, Room 314C
-
-**Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment
+**Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)  
+**Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)
+**Office:** LeConte College, Room 314C.  
+**Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.
 
 
 Class Meetings
 --------------
-**Lecture** MWF, 12--12:50pm LeConte College Room 113  
-**Recitation** Tue 8:30--9:20am	LeConte Room 121
+**Lecture** MWF 12--12:50pm LeConte College Room 113  
+**Recitation** Tue 8:30--9:20am	LeConte Room 121  
 **Lab** Thu 8:30--9:20am LeConte Room 102
-
-
-Teaching Assistant
-------------------
-Michael Thomas Cowen [E-mail](mailto:mtcowen@mailbox.sc.edu)
 
 
 Webpages
 --------
-**Course Webpage:** http://github.com/williamdemeo/Math141Spring2014
-
-**WebAssign:** http://www.webassign.net/
+**Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
+**WebAssign:** http://www.webassign.net/  
 
 The course webpage will list the material covered, the assigned homework, test
 dates, and any supplemental material. It will be updated often as we progress
