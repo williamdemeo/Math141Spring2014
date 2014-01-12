@@ -1,23 +1,10 @@
 Math 141: Calculus I, Spring 2014
 =================================
 
-Basic info
-----------
 **Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)   
 **Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)  
 **Office:** LeConte College, Room 314C.  
 **Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.
-
-
-Class Meetings
---------------
-**Lecture** MWF 12--12:50pm LeConte College Room 113  
-**Recitation** Tue 8:30--9:20am	LeConte Room 121  
-**Lab** Thu 8:30--9:20am LeConte Room 102
-
-
-Webpages
---------
 **Official Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
 **WebAssign:** http://www.webassign.net/  
 
@@ -27,9 +14,15 @@ through the material, so you should check it routinely.  If you have any trouble
 accessing the site or downloading materials from it, please notify the professor
 immediately.  (Blackboard will only be used to record grades.)
 
+Class Meetings
+--------------
+**Lecture** MWF 12--12:50pm LeConte College Room 113  
+**Recitation** Tue 8:30--9:20am	LeConte Room 121  
+**Lab** Thu 8:30--9:20am LeConte Room 102
 
-Overview of Course Content
---------------------------
+
+Overview of The Course
+----------------------
 We will cover most of the first six chapters of the textbook, which includes the
 following topics: functions, limits, derivatives, introduction to integrals, the
 Fundamental Theorem of Calculus, applications of derivatives and integrals. 
