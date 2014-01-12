@@ -3,8 +3,8 @@ Math 141: Calculus I, Spring 2014
 
 Basic info
 ----------
-**Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)  
-**Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)
+**Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)   
+**Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)  
 **Office:** LeConte College, Room 314C.  
 **Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.
 
@@ -45,11 +45,10 @@ Textbook
 --------
 Stewart, *Calculus, Early Transcendentals*, 6th ed.  
 Any version of the textbook---e.g., hardcover, paperback, eBook---is fine, but
-*you will need access to the [WebAssign][]
-online homework system* in order to complete your homework assignments.  
-You can purchase access directly through the [WebAssign][] website, 
-but it may be more economical to buy a book that comes bundled with a 
-WebAssign access code.
+*you will need access to the [WebAssign][] online homework system* in order to
+complete your homework assignments. You can purchase access directly through the
+[WebAssign website][], but it may be more economical to buy a book that comes
+bundled with a WebAssign access code.
 
 
 Exams
@@ -78,7 +77,9 @@ will be counted toward your grade.
 
 [WebAssign][] All homework will be done online using the [WebAssign][]
 system. You will enroll yourself in our course by going to the 
-sc 3475 0829
+[WebAssign website][] and using the following class key:
+
+**Class Key:** sc 3475 0829
 
 
 Make-up Policy
@@ -91,7 +92,7 @@ If you miss a test with a legitimate reason, you may come to me within one class
 meeting of the missed test and provide an explanation, in which case I will
 consider replacing the missed test score with 80% of your final exam score. For
 example, if I accept your excuse and you score 90% on the final, then I will
-give you 72\% on the missed test (0.80*0.90 = 0.72).
+give you 72% on the missed test (0.80*0.90 = 0.72).
 
 
 Grading Policy
@@ -139,8 +140,6 @@ Tutoring
 Math Tutoring Center runs walk-in help desks around campus. No appointment necessary.
 
 
-WebAssign “Class Key”: sc 2961 0066
-
 Learning Outcomes
 -----------------
 Students will master concepts and solve problems based on functions, limits,
@@ -181,4 +180,5 @@ your classmates if you leave, or noisily pack up your belongings, before the
 lecture is over. 
 
 [WebAssign]: http://www.webassign.net
+[WebAssign website]: http://www.webassign.net
 [Bulletin of Undergraduate Studies]: http://www.sc.edu/bulletin/ugrad/acadregs.html#class%20atten
