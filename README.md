@@ -20,7 +20,7 @@ Math 141: Calculus I, Spring 2014
 **Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)  
 **Office:** LeConte College, Room 314C.  
 **Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.  
-**Official Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
+**Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
 **WebAssign:** http://www.webassign.net/  
 
 The course webpage will list the material covered, the assigned homework, test
@@ -76,13 +76,13 @@ in the university bookstore.
 *You must have access to WebAssign for this course.*  To reiterate, you can
 purchase it separately from the [WebAssign website][], or as part of a textbook
 bundle at the university bookstore.  Note that, since WebAssign access provides
-you with a (somewhat restrictive) electronic version of the textbook, it is not
+you with a (somewhat restricted) electronic version of the textbook, it is not
 absolutely necessary to purchase a hard copy of the book.  However, it is highly
 recommended that you have a hard copy, or at least an electronic version that you
-can view on a tablet when studying in the library.  If you limit yourself to the
-electronic access to the text that is provided through WebAssign, it is likely
-that you will not find this access very convenient and, as a result, you might
-end up studying from the textbook far less than if you had purchased a hard copy.
+can view on a tablet when studying in the library.  If you limit yourself to only 
+the electronic access that is provided through WebAssign, you may not find it very 
+convenient and, as a result, you might end up studying from the textbook less 
+often than if you had purchased a hard copy.
 
 Exams
 -----
