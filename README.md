@@ -108,7 +108,7 @@ be due on Friday evenings.
 Late homework will not be accepted or graded. Your best 10 homework assignments
 will be counted toward your grade.
 
-All homework will be done the [WebAssign online homework system][].
+All homework for this course will be done with [WebAssign][].
 You will enroll yourself in our course by going to the 
 [WebAssign website][] and using the following class key:
 
