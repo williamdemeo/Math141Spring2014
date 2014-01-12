@@ -4,7 +4,7 @@ Math 141: Calculus I, Spring 2014
 **Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)   
 **Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)  
 **Office:** LeConte College, Room 314C.  
-**Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.
+**Office hours:** Wednesday, Thursday, Friday 11--12, and by appointment.  
 **Official Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
 **WebAssign:** http://www.webassign.net/  
 
@@ -16,9 +16,9 @@ immediately.  (Blackboard will only be used to record grades.)
 
 Class Meetings
 --------------
-**Lecture** MWF 12--12:50pm LeConte College Room 113  
-**Recitation** Tue 8:30--9:20am	LeConte Room 121  
-**Lab** Thu 8:30--9:20am LeConte Room 102
+**Lecture:** MWF 12--12:50pm LeConte College Room 113  
+**Recitation:** Tue 8:30--9:20am	LeConte Room 121  
+**Lab:** Thu 8:30--9:20am LeConte Room 102
 
 
 Overview of The Course
@@ -69,11 +69,11 @@ at least one week notice of the exam date.  Do not make and travel arrangements
 which would cause you to miss a lecture, or you might end up missing one of
 these exams and there are no make-up exams.  
 
-**Final Exam**: 
-[USC Spring 2014 Final Exam Schedule](http://registrar.sc.edu/html/calendar/exam_1411.stm)  
-Our exam is **Friday, May 2, 4:00--6:30 in LeConte 113**  
+**Final Exam: Friday, May 2, 4:00--6:30 in LeConte 113**   
 In accordance with university policy, the final exam must be taken by all
 students at the scheduled time. *There are no make-up exams.*
+
+[USC Spring 2014 Final Exam Schedule](http://registrar.sc.edu/html/calendar/exam_1411.stm) 
 
 
 Homework
@@ -85,11 +85,11 @@ be due on Friday evenings.
 Late homework will not be accepted or graded. Your best 10 homework assignments
 will be counted toward your grade.
 
-[WebAssign][] All homework will be done online using the [WebAssign][]
-system. You will enroll yourself in our course by going to the 
+All homework will be done the [WebAssign online homework system][].
+You will enroll yourself in our course by going to the 
 [WebAssign website][] and using the following class key:
 
-**Class Key:** sc 3475 0829
+**WebAssign Class Key:** sc 3475 0829
 
 
 Make-up Policy
@@ -112,16 +112,15 @@ homework will be worth 15 points,  The following scores will guarantee the
 following grades. I reserve the right to shift the scale at the end of the
 semester. All curving (if any) will occur at the end of the semester. 
 
------------------
-| A  | 92--100  |
-| B+ | 87--91   |
-| B  | 82--86   |
-| C+ | 77--81   |
-| C  | 72--76   |
-| D+ | 67--71   | 
-| D  | 60--66   |
-| F  |  0--59   | 
------------------
++ A: 92--100  
++ B+: 87--91   
++ B: 82--86   
++ C+: 77--81  
++ C: 72--76   
++ D+: 67--71   
++ D: 60--66   
++ F:  0--59    
+
     
 
 Academic Honesty
