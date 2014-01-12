@@ -1,18 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Class Meetings](#class-meetings)
-- [Overview, Prerequisites, Outcomes, Accessibility](#overview-prerequisites-outcomes-accessibility)
-- [Textbook](#textbook)
-- [Exams](#exams)
-- [Homework](#homework)
-- [Make-up Policy](#make-up-policy)
-- [Grading Policy](#grading-policy)
-- [Attendance](#attendance)
-- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
-- [Academic Honesty](#academic-honesty)
-- [Supplemental Instruction and Tutoring](#supplemental-instruction-and-tutoring)
-- [Important Dates](#important-dates)
-
 Math 141: Calculus I, Spring 2014
 =================================
 
@@ -29,6 +14,22 @@ through the material, so you should check it routinely.  If you have any trouble
 accessing the site or downloading materials from it, please notify the professor
 immediately.  (Blackboard will only be used to record grades.)
 
+----------------------------------------------------------------------------------
+
+- [Class Meetings](#class-meetings)
+- [Overview, Prerequisites, Outcomes, Accessibility](#overview-prerequisites-outcomes-accessibility)
+- [Textbook](#textbook)
+- [Exams](#exams)
+- [Homework](#homework)
+- [Make-up Policy](#make-up-policy)
+- [Grading Policy](#grading-policy)
+- [Attendance](#attendance)
+- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+- [Academic Honesty](#academic-honesty)
+- [Supplemental Instruction and Tutoring](#supplemental-instruction-and-tutoring)
+- [Important Dates](#important-dates)
+
+-----------------------------------------------------------------------------------
 Class Meetings
 --------------
 **Lecture:** MWF 12--12:50pm LeConte College Room 113  
