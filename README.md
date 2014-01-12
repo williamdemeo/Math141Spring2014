@@ -121,11 +121,12 @@ Make-up Policy
 If you must miss an exam for a legitimate reason, contact the professor
 at least three days prior to the exam date and you might be allowed
 to take the exam *before* the scheduled exam time. 
-If you miss a test with a legitimate reason, you must contact the professor 
-within one class meeting after the missed test and provide an explanation.
-If your excuse is accepted, the missed test score may be replaced with 80% 
-of your final exam score. For example, if your excuse is accepted and you 
-score 90% on the final, then you will receive 72% for the missed test 
+
+If you miss a test due to unforseen circumstances, you must contact the 
+professor within one class meeting after the missed test and provide an 
+explanation. If your excuse is accepted, the missed test score may be replaced 
+with 80% of your final exam score. For example, if your excuse is accepted and 
+you score a 90% on the final, then you will receive a 72% for the missed test 
 (0.80*0.90 = 0.72).
 
 
