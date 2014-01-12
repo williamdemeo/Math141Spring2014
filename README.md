@@ -47,12 +47,24 @@ Textbook
  
 <IMG border=0 src="http://images.barnesandnoble.com/images/71000000/71006981.JPG"></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=xEro7OMQWE4&bids=239662.9780495011668&type=2&subid=0">
 
-Any version of the textbook---e.g., hardcover, paperback, eBook---is fine, but
-*you will need access to the [WebAssign][] online homework system* in order to
-complete your homework assignments. You can purchase access directly through the
-[WebAssign website][], but it may be more economical to buy a book that comes
-bundled with a WebAssign access code.
+**Important Note:** you do not need to buy the textbook using the link above.
+It is onl provided for your reference.  Any version of the textbook---e.g.,
+hardcover, paperback, eBook---is fine, but *you will need access to the
+[WebAssign][] online homework system* in order to complete your homework
+assignments. You can purchase access directly through the [WebAssign website][],
+but it may be more economical to buy a book that comes bundled with a WebAssign
+access code. Such bundles are available in the university bookstore.
 
+You must have access to WebAssign for our course.  You can purchase it
+separately, or with a textbook bundle at the university bookstore. 
+Note that, since WebAssign access provides you with a (somewhat restrictive)
+electronic version of the textbook, it is not absolutely necessary to purchase a
+hardcopy of the book.  However, it is highly recommended that you have a
+hardcopy, or at least an electronic version that you can view on a tablet when
+studying in the library.  If you limit yourself to the electronic access to the
+text that is provided through WebAssign, it is likely that you will not find
+this access very convenient and, as a result, you might end up studying from the
+textbook far less than if you had purchased a hard copy.
 
 Exams
 -----
