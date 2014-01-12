@@ -1,3 +1,23 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Math 141: Calculus I, Spring 2014](#math-141-calculus-i-spring-2014)
+	- [Class Meetings](#class-meetings)
+	- [Overview of The Course](#overview-of-the-course)
+	- [Prerequisites](#prerequisites)
+	- [Textbook](#textbook)
+	- [Exams](#exams)
+	- [Homework](#homework)
+	- [Make-up Policy](#make-up-policy)
+	- [Grading Policy](#grading-policy)
+	- [Academic Honesty](#academic-honesty)
+	- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+	- [Supplemental Instruction (SI)](#supplemental-instruction-si)
+	- [Tutoring](#tutoring)
+	- [Learning Outcomes](#learning-outcomes)
+	- [Important Dates](#important-dates)
+	- [Accessibility](#accessibility)
+	- [Attendance](#attendance)
+
 Math 141: Calculus I, Spring 2014
 =================================
 
