@@ -132,10 +132,11 @@ you score a 90% on the final, then you will receive a 72% for the missed test
 
 Grading Policy
 --------------
-Each test will be worth 25 points, the final will be worth 35 points, and
-homework will be worth 15 points,  The following scores will guarantee the
-following grades. I reserve the right to shift the scale at the end of the
-semester. All curving (if any) will occur at the end of the semester. 
+Each mid-term exam is worth 25 points, the final exam is worth 35 points, and
+homework is worth 15 points,  The following scores will guarantee the
+following grades. The scale may be shifted at the end of the semester,
+depending on overall student performance.  All curving (if any) will occur 
+at the end of the semester.  
 
 + A: 92--100  
 + B+: 87--91   
