@@ -101,11 +101,11 @@ students at the scheduled time. *There are no make-up exams.*
 
 Homework
 --------
-Solving lots of problems is the surest way to prepare yourself to do well on the
-tests and quizzes and ultimately do well in the course.
+Solving lots of problems is the best way to prepare yourself to do well on the
+tests and quizzes, and ultimately do well in the course.
 Online homework will be assigned approximately once per week and will typically
 be due on Friday evenings. 
-Late homework will not be accepted or graded. Your best 10 homework assignments
+Late homework will not be accepted or graded. Your 10 best homework assignments
 will be counted toward your grade.
 
 All homework for this course will be done with [WebAssign][].
@@ -118,14 +118,15 @@ You will enroll yourself in our course by going to the
 Make-up Policy
 --------------
 *There will be no make-up homework or exams.*
-If you must miss an exam for a legitimate reason, contact me
-at least three days prior to the exam date and I will consider
-letting you take the exam *before* the scheduled exam time. 
-If you miss a test with a legitimate reason, you may come to me within one class
-meeting of the missed test and provide an explanation, in which case I will
-consider replacing the missed test score with 80% of your final exam score. For
-example, if I accept your excuse and you score 90% on the final, then I will
-give you 72% on the missed test (0.80*0.90 = 0.72).
+If you must miss an exam for a legitimate reason, contact the professor
+at least three days prior to the exam date and you might be allowed
+to take the exam *before* the scheduled exam time. 
+If you miss a test with a legitimate reason, you must contact the professor 
+within one class meeting after the missed test and provide an explanation.
+If your excuse is accepted, the missed test score may be replaced with 80% 
+of your final exam score. For example, if your excuse is accepted and you 
+score 90% on the final, then you will receive 72% for the missed test 
+(0.80*0.90 = 0.72).
 
 
 Grading Policy
