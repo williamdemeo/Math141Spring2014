@@ -87,7 +87,7 @@ often than if you had purchased a hard copy.
 
 Exams
 -----
-**Mid-term Exams**: There will be two mid-term exams each worth 25% of the final
+**Mid-term Exams**: There will be two mid-term exams each worth 20% of the final
 course grade. The exams will be scheduled as we progress and you will be given
 at least one week notice of the exam date.  Do not make and travel arrangements
 which would cause you to miss a lecture, or you might end up missing one of
