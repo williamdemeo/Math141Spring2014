@@ -133,11 +133,12 @@ you score a 90% on the final, then you will receive a 72% for the missed test
 
 Grading Policy
 --------------
-Each mid-term exam is worth 25 points, the final exam is worth 35 points, and
-homework is worth 15 points,  The following scores will guarantee the
-following grades. The scale may be shifted at the end of the semester,
-depending on overall student performance.  All curving (if any) will occur 
-at the end of the semester.  
+For the final course grade each mid-term exam is worth 20 points, 
+the final exam is worth 30 points, the homework is 15 points, and the 
+computer lab grade is worth 15 points. The ranges of scores associated with 
+letter grades are shown below.  The scale may be shifted at the end of the 
+semester, depending on overall student performance.  All curving (if any) 
+will occur at the end of the semester.  
 
 + A: 92--100  
 + B+: 87--91   
