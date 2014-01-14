@@ -124,20 +124,26 @@ at least three days prior to the exam date and you might be allowed
 to take the exam *before* the scheduled exam time. 
 
 If you miss a test due to unforseen circumstances, you must contact the 
-professor within one class meeting after the missed test and provide an 
+professor within one class meeting after the missed test and provide an
 explanation. If your excuse is accepted, the missed test score may be replaced 
-with 80% of your final exam score. For example, if your excuse is accepted and 
-you score a 90% on the final, then you will receive a 72% for the missed test 
+with 80% of your final exam score. For example, if your excuse is accepted and
+you score a 90% on the final, then you will receive a 72% for the missed test
 (0.80*0.90 = 0.72).
 
 
 Grading Policy
 --------------
-For the final course grade each mid-term exam is worth 25 points, 
-the final exam 30 points, the homework 10 points, and the computer lab 
-10 points. The ranges of scores associated with letter grades 
-are shown below.  The scale may be shifted at the end of the semester, 
-depending on overall student performance.  All curving (if any) 
+The breakdown of the final course grade is as follows:  
+
++ Final exam: 30 points  
++ Mid-term exams: 20 points each  
++ Computer lab: 10 points
++ Homework: 13 points total (subject to change)  
++ Quizzes: 7 points total (subject to change)  
+
+The score required to attain a given letter grade is shown below.
+The scale may be shifted at the end of the semester,
+depending on overall student performance.  All curving (if any)
 will occur at the end of the semester.  
 
 + A: 92--100  
