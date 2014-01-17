@@ -60,19 +60,21 @@ Act, or otherwise, and need any assistance please notify me immediately.
 
 Textbook
 --------
-[Stewart, *Calculus Early Transcendentals*, 6th ed.](http://click.linksynergy.com/link?id=xEro7OMQWE4&offerid=239662.9780495011668&type=2&murl=http%3A%2F%2Fsearch.barnesandnoble.com%2FCalculus%2FJames-Stewart%2Fe%2F9780495011668)
+Stewart, *Calculus Early Transcendentals*, 6th ed.
  
 <IMG border=0 src="http://images.barnesandnoble.com/images/71000000/71006981.JPG"></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=xEro7OMQWE4&bids=239662.9780495011668&type=2&subid=0">
 
 **Important Note:** you do not need to buy the textbook using the link above.
-This link is only provided for your reference.  
+It is only provided for your reference.  In fact, if you buy the book
+online, it may or may not come with access to the [WebAssign][] online homework
+system. 
 
 Any version of the textbook---e.g., hardcover, paperback, eBook---is fine, but
-*you will need access to the [WebAssign][] online homework system* in order to
-complete your homework assignments. You can purchase access directly through the
-[WebAssign website][], but it may be more economical to buy a hard copy of the
-book that comes bundled with a WebAssign access code. Such bundles are available
-in the university bookstore. 
+*you will need access to [WebAssign][]* in order to complete your homework
+assignments. You can purchase access directly through the [WebAssign website][],
+but it may be more economical to buy a hard copy of the book that comes bundled
+with a WebAssign access code. Such bundles are available in the university
+bookstore.  
 
 *You must have access to WebAssign for this course.*  To reiterate, you can
 purchase it separately from the [WebAssign website][], or as part of a textbook
@@ -218,3 +220,4 @@ Important Dates
 [WebAssign]: http://www.webassign.net
 [WebAssign website]: http://www.webassign.net
 [Bulletin of Undergraduate Studies]: http://www.sc.edu/bulletin/ugrad/acadregs.html#class%20atten
+[Stewart Calculus]: http://click.linksynergy.com/link?id=xEro7OMQWE4&offerid=239662.9780495011668&type=2&murl=http%3A%2F%2Fsearch.barnesandnoble.com%2FCalculus%2FJames-Stewart%2Fe%2F9780495011668
