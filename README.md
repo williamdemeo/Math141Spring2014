@@ -4,7 +4,7 @@ Math 141: Calculus I, Spring 2014
 **Instructor:** Dr. William DeMeo [email](mailto:williamdemeo@gmail.com)   
 **Teaching Assistant:** Mr. Michael Cowen [email](mailto:mtcowen@mailbox.sc.edu)  
 **Office:** LeConte College, Room 314C.  
-**Office hours:** Wednesday 14:00--15:00, Friday 11--12 and 14:00--15:00, and by appointment.  
+**Office hours:** Wednesday 14-15, Friday 11-12 and 14-15, and by appointment.  
 **Course Webpage:** http://github.com/williamdemeo/Math141Spring2014  
 **WebAssign:** http://www.webassign.net/  
 
