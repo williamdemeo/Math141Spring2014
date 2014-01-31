@@ -19,7 +19,7 @@ F 1/31: 1.6--2.1 Logarithms; tangent and velocity
 ## February
 
 M 2/3: 2.2-3 Limits and their calculation    
-T 2/4: **Quiz 1**  
+T 2/4: **Quiz 1** on Ch. 1  
 W 2/5: 2.3-4 Precise definition of limit  
 F 2/7: 2.5 Continuity   **WebAssign HW 3: 1.6, 2.1, 2.2**  
 
@@ -30,7 +30,7 @@ F 2/14: 2.8 The derivative as a function  **WebAssign HW 4: 2.3--2.5**
 
 ----------------------------------------------------------
 M 2/17: 3.1 Derivatives of polynomials  
-T 2/18: **Quiz 2**  
+T 2/18: **Quiz 2** on Ch. 2  
 W 2/19: 3.2 Product and quotient rules  
 F 2/21: Review for Exam 1  **WebAssign HW 5: 2.6--2.8**  
 
