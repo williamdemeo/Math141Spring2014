@@ -166,15 +166,14 @@ A grade penalty will be exacted if you have an excessive number of absences
 Specifically, you are permitted (but strongly discouraged from taking) seven
 absences in total between lecture, lab, and recitation. Each absence in addition
 to that may result in the deduction of points from your final grade. In most of
-the lectures, attendance will be recorded by passing around a sign-in sheet.
-That will require your own signature.  (If another student asks you to sign in
-for them, you should not do it! Forging another student's signature constitutes
-a violation of the student code of conduct and will be referred to the USC
-Office of Academic Integrity.)  
-If you plan to leave before class is over, the correct procedure is to mention this
-to the professor before the start of class. It is impolite and disruptive to
-your classmates if you leave, or noisily pack up your belongings, before the
-lecture is over. 
+the lectures, attendance will be recorded by passing around a sign-in sheet
+on which you will print and sign your own name. (If another student asks you to
+sign in for them, you should not do it! Forging another student's signature
+constitutes a violation of the student code of conduct and will be referred to
+the USC Office of Academic Integrity.) If you plan to leave before class is
+over, the correct procedure is to mention this to the professor before the start
+of class. It is impolite and disruptive to your classmates if you leave, or
+noisily pack up your belongings, before the lecture is over. 
 
 Use of Electronics During Lecture
 ---------------------------------
