@@ -165,8 +165,12 @@ A grade penalty will be exacted if you have an excessive number of absences
 (whether excused or unexcused); see the [Bulletin of Undergraduate Studies][].
 Specifically, you are permitted (but strongly discouraged from taking) seven
 absences in total between lecture, lab, and recitation. Each absence in addition
-to that will result in the deduction of 5 points from your final grade. Roll will be
-taken at the beginning of every class; if you are late, that counts as an absence.
+to that may result in the deduction of points from your final grade. In most of
+the lectures, attendance will be recorded by passing around a sign-in sheet.
+That will require your own signature.  (If another student asks you to sign in
+for them, you should not do it! Forging another student's signature constitutes
+a violation of the student code of conduct and will be referred to the USC
+Office of Academic Integrity.)  
 If you plan to leave before class is over, the correct procedure is to mention this
 to the professor before the start of class. It is impolite and disruptive to
 your classmates if you leave, or noisily pack up your belongings, before the
