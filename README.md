@@ -173,7 +173,7 @@ constitutes a violation of the student code of conduct and will be referred to
 the USC Office of Academic Integrity.) If you plan to leave before class is
 over, the correct procedure is to mention this to the professor before the start
 of class. It is impolite and disruptive to your classmates if you leave, or
-noisily pack up your belongings, before the lecture is over. 
+even pack up your belongings, before the lecture is over. 
 
 Use of Electronics During Lecture
 ---------------------------------
