@@ -20,30 +20,30 @@ F 1/31: 1.6--2.1 Logarithms; tangent and velocity
 
 M 2/3: 2.2-3 Limits and their calculation    
 T 2/4: **Chapter 1 Quiz**  
-W 2/5: 2.3-4 Precise definition of limit  
-F 2/7: 2.5 Continuity   **WebAssign HW 3: 1.6, 2.1, 2.2**  
+W 2/5: 2.3 Precise definition of limit 
+F 2/7: 2.4 More limits   **WebAssign HW 3: 1.6, 2.1, 2.2**  
 
 ----------------------------------------------------------
-M 2/10: 2.6 Limits at infinity; asymptotes  
-W 2/12: 2.7 Derivatives and rates of change  
-F 2/14: 2.8 The derivative as a function  **WebAssign HW 4: 2.3--2.5**  
+M 2/10: 2.5 Continuity
+W 2/12: (snow day)
+F 2/14: (snow day)
 
 ----------------------------------------------------------
-M 2/17: 3.1 Derivatives of polynomials  
-T 2/18: **Chapter 2 Quiz**  
-W 2/19: 3.2 Product and quotient rules  
-F 2/21: Review for Exam 1  **WebAssign HW 5: 2.6--2.8**  
+M 2/17: 2.6 Limits at infinity; asymptotes  
+T 2/18:  **Chapter 2 Quiz**  
+W 2/19: 2.7 Derivatives and rates of change **WebAssign HW 4: 2.3--2.5**
+F 2/21: 2.8 The derivative as a function  
 
 
 ----------------------------------------------------------
-M 2/24: **Exam 1** Sections: 1.1--1.3, 1.5, 2.1--2.8  
-W 2/26: 3.3 Derivatives of trig functions  
-F 2/28: 3.4 The Chain Rule  
+M 2/24: 3.1 Derivatives of polynomials
+W 2/26: 3.2 Product and quotient rules  **WebAssign HW 4: 2.6--2.8**
+F 2/28: 3.3 Derivatives of trig functions  
 
 ## March          
 
-M 3/3  
-T 3/4    
+M 3/3    **Exam 1** Sections: 1.1--1.3, 1.5, 2.1--2.8  
+T 3/4    3.4 The Chain Rule  
 W 3/5  
 F 3/7  
 
