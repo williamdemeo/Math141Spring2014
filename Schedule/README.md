@@ -30,13 +30,13 @@ F 2/14: (snow day)
 
 ----------------------------------------------------------
 M 2/17: 2.6 Limits at infinity; asymptotes   
-T 2/18:  **Chapter 2 Quiz**   
 W 2/19: 2.7 Derivatives and rates of change **WebAssign HW 4: 2.3--2.5**  
-F 2/21: 2.8 The derivative as a function   
+F 2/21: 2.8 The derivative as a function     
 
 
 ----------------------------------------------------------
 M 2/24: 3.1 Derivatives of polynomials  
+T 2/25:  **Chapter 2 Quiz**   
 W 2/26: 3.2 Product and quotient rules  **WebAssign HW 4: 2.6--2.8**  
 F 2/28: 3.3 Derivatives of trig functions   
 
