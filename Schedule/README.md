@@ -47,9 +47,9 @@ W 3/5    3.3 Derivatives of trig functions
 F 3/7    3.4 The Chain Rule  **WebAssign HW 6: 3.1, 3.2**  
 
 ----------------------------------------------------------
-M 3/10: (no class)  
-W 3/12: (no class)  
-F 3/14: (no class)  
+M 3/10: Spring Break (no class)  
+W 3/12: Spring Break (no class)  
+F 3/14: Spring Break (no class)  
 
 ----------------------------------------------------------
 M 3/17  3.5 Implicit differentiation  **WebAssign HW 7: 3.3, 3.4**  
