@@ -19,7 +19,7 @@ F 1/31: 1.6--2.1 Logarithms; tangent and velocity
 ## February
 
 M 2/3: 2.2-3 Limits and their calculation    
-T 2/4: **Chapter 1 Quiz**  
+T 2/4: **Quiz 1** on Chapter 1  
 W 2/5: 2.3 Precise definition of limit  
 F 2/7: 2.4 More limits   **WebAssign HW 3: 1.6, 2.1, 2.2**  
 
@@ -36,15 +36,15 @@ F 2/21: 2.8 The derivative as a function
 
 ----------------------------------------------------------
 M 2/24: 3.1 Derivatives of polynomials  
-T 2/25:  **Chapter 2 Quiz**   
+T 2/25: **Quiz 2** on Sections 2.1--2.7  
 W 2/26: 3.2 Product and quotient rules  **WebAssign HW 5: 2.6--2.8**    
 F 2/28: Review for exam  
 
 ## March          
 
-M 3/3    **Exam 1** Sections: 1.1--1.3, 1.5, 2.1--2.8  
-W 3/5    3.3 Derivatives of trig functions   
-F 3/7    3.4 The Chain Rule  **WebAssign HW 6: 3.1, 3.2**  
+M 3/3: **Exam 1** Sections: 1.1--1.3, 1.5, 2.1--2.8  
+W 3/5: 3.3 Derivatives of trig functions   
+F 3/7: 3.4 The Chain Rule  **WebAssign HW 6: 3.1, 3.2**  
 
 ----------------------------------------------------------
 M 3/10: Spring Break (no class)  
@@ -52,44 +52,43 @@ W 3/12: Spring Break (no class)
 F 3/14: Spring Break (no class)  
 
 ----------------------------------------------------------
-M 3/17  3.5 Implicit differentiation  **WebAssign HW 7: 3.3, 3.4**  
-W 3/19  3.6 Derivatives of logarithms   
-F 3/21  3.9 Related rates  
+M 3/17: 3.5 Implicit differentiation  **WebAssign HW 7: 3.3, 3.4**  
+W 3/19: 3.6 Derivatives of logarithms   
+F 3/21: 3.9 Related rates  
 
 ----------------------------------------------------------
-M 3/24  4.1 Maximum and minimum values  **WebAssign HW 8: 3.5, 3.6, 3.9**    
-T 3/25  **Chapter 3 Quiz 3** on Sections 3.1--3.6, 3.9  
-W 3/26  4.2 The Mean Value Theorem  
-F 3/28  4.3 The derivative and the graph of a function  
+M 3/24: 4.1 Maximum and minimum values  **WebAssign HW 8: 3.5, 3.6, 3.9**    
+T 3/25: **Quiz 3** on Sections 3.1--3.6, 3.9  
+W 3/26: 4.2 The Mean Value Theorem  
+F 3/28: 4.3 The derivative and the graph of a function  
 
 ----------------------------------------------------------
-M 3/31  4.4 Indeterminate forms and L'Hopital's Rule    **WebAssign HW 9: 4.1, 4.2**
+M 3/31:  4.4 Indeterminate forms and L'Hopital's Rule **WebAssign HW 9: 4.1, 4.2**  
 
 ## April
 
-W 4/2  4.5 More on the derivative and the graph  
-F 4/4  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**  
+W 4/2:  4.5 More on the derivative and the graph   
+F 4/4:  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**  
 
 ------------------------------------------------------------
-M 4/7  4.7 Optimization problems  
-T 4/8  Review for Exam 2  
-W 4/9  **Exam 2** on Sections: 3.1--3.6, 3.9, 4.1--4.5  
-F 4/11   
+M 4/7:  4.9 Antiderivatives   
+T 4/8:  Review for Exam 2  
+W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.5  
+F 4/11: 5.1 Areas and distances     
 
 ------------------------------------------------------------
-M 4/14  
-T 4/15  
-W 4/16  
-F 4/18  
+M 4/14: 5.2 The definite integral  
+W 4/16: 5.3 The Fundamental Theorem of Calculus **WebAssign HW 11: 4.7, 4.9, 5.1**    
+F 4/18: 5.4 Indefinite integrals    
 
 ------------------------------------------------------------
-M 4/21  
-T 4/22  
-W 4/23  
-F 4/25 
+M 4/21: 5.5 The substitution rule  
+T 4/22:  **Quiz 4** on Sections 4.9, 5.1--5.4   
+W 4/23: 5.5 More on substitution     **WebAssign HW 12: 5.2--5.4**  
+F 4/25: 6.1 Area between curves (time permitting)
 
 ------------------------------------------------------------
-M 4/28  
+M 4/28: 6.2 Volumes (time permitting)
 W 4/30  (no class)  
 
 ## May
