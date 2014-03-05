@@ -67,8 +67,8 @@ M 3/31:  4.4 Indeterminate forms and L'Hopital's Rule **WebAssign HW 9: 4.1, 4.2
 
 ## April
 
-W 4/2:  4.5 More on the derivative and the graph   
-F 4/4:  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**  
+W 4/2:  4.7 Optimization problems
+F 4/4:  4.7 More optimization problems    **WebAssign HW 10: 4.3, 4.4**  
 
 ------------------------------------------------------------
 M 4/7:  4.9 Antiderivatives   
