@@ -42,7 +42,7 @@ F 2/28: Review for exam
 
 ## March          
 
-M 3/3: **Exam 1** Sections: 1.1--1.3, 1.5, 2.1--2.8  
+M 3/3: **Exam 1** on Sections: 1.1--1.3, 1.5, 2.1--2.8  
 W 3/5: 3.3 Derivatives of trig functions   
 F 3/7: 3.4 The Chain Rule  **WebAssign HW 6: 3.1, 3.2**  
 
