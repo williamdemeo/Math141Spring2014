@@ -72,8 +72,8 @@ F 4/4  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**
 
 ------------------------------------------------------------
 M 4/7  4.7 Optimization problems  
-T 4/8  Review for Exam II  
-W 4/9  Exam II on Sections: 3.1--3.6, 3.9, 4.1--4.5  
+T 4/8  Review for Exam 2  
+W 4/9  **Exam 2** on Sections: 3.1--3.6, 3.9, 4.1--4.5  
 F 4/11   
 
 ------------------------------------------------------------
