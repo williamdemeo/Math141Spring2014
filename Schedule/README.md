@@ -73,11 +73,11 @@ F 4/4:  4.7 More optimization problems    **WebAssign HW 10: 4.3, 4.4**
 ------------------------------------------------------------
 M 4/7:  4.9 Antiderivatives   
 T 4/8:  Review for Exam 2  
-W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.4, 4.7  
+W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.4, 4.7   
 F 4/11: 5.1 Areas and distances     
 
 ------------------------------------------------------------
-M 4/14: 5.2 The definite integral  
+M 4/14: 5.2 The definite integral   
 W 4/16: 5.3 The Fundamental Theorem of Calculus **WebAssign HW 11: 4.7, 4.9, 5.1**    
 F 4/18: 5.4 Indefinite integrals    
 
@@ -85,10 +85,10 @@ F 4/18: 5.4 Indefinite integrals
 M 4/21: 5.5 The substitution rule  
 T 4/22:  **Quiz 4** on Sections 4.9, 5.1--5.4   
 W 4/23: 5.5 More on substitution     **WebAssign HW 12: 5.2--5.4**  
-F 4/25: 6.1 Area between curves (time permitting)
+F 4/25: 6.1 Area between curves (time permitting)  
 
 ------------------------------------------------------------
-M 4/28: 6.2 Volumes (time permitting)
+M 4/28: 6.2 Volumes (time permitting)  
 W 4/30  (no class)  
 
 ## May
