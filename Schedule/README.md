@@ -73,7 +73,7 @@ F 4/4:  4.7 More optimization problems    **WebAssign HW 10: 4.3, 4.4**
 ------------------------------------------------------------
 M 4/7:  4.9 Antiderivatives   
 T 4/8:  Review for Exam 2  
-W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.5  
+W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.4, 4.7  
 F 4/11: 5.1 Areas and distances     
 
 ------------------------------------------------------------
