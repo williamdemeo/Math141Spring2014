@@ -88,7 +88,7 @@ W 4/23: 5.5 More on substitution     **WebAssign HW 12: 5.2--5.4**
 F 4/25: 6.1 Area between curves (time permitting)  
 
 ------------------------------------------------------------
-M 4/28: 6.2 Volumes (time permitting)  
+M 4/28: Review
 W 4/30  (no class)  
 
 ## May
