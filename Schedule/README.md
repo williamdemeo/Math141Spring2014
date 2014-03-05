@@ -58,7 +58,7 @@ F 3/21  3.9 Related rates
 
 ----------------------------------------------------------
 M 3/24  4.1 Maximum and minimum values  **WebAssign HW 8: 3.5, 3.6, 3.9**    
-T 3/25  Quiz 3 on Sections 3.1--3.6, 3.9  
+T 3/25  **Chapter 3 Quiz 3** on Sections 3.1--3.6, 3.9  
 W 3/26  4.2 The Mean Value Theorem  
 F 3/28  4.3 The derivative and the graph of a function  
 
@@ -68,12 +68,12 @@ M 3/31  4.4 Indeterminate forms and L'Hopital's Rule    **WebAssign HW 9: 4.1, 4
 ## April
 
 W 4/2  4.5 More on the derivative and the graph  
-F 4/4  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**
+F 4/4  4.7 Optimization problems    **WebAssign HW 10: 4.3, 4.4**  
 
 ------------------------------------------------------------
-M 4/7  4.7 Optimization problems
-T 4/8  Review for Exam II
-W 4/9  Exam II on Sections: 3.1--3.6, 3.9, 4.1--4.5
+M 4/7  4.7 Optimization problems  
+T 4/8  Review for Exam II  
+W 4/9  Exam II on Sections: 3.1--3.6, 3.9, 4.1--4.5  
 F 4/11   
 
 ------------------------------------------------------------
