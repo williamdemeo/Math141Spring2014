@@ -68,12 +68,11 @@ M 3/31:  4.4 Indeterminate forms and L'Hopital's Rule **WebAssign HW 9: 4.1, 4.2
 ## April
 
 W 4/2:  4.7 Optimization problems  
-F 4/4:  4.7 More optimization problems    **WebAssign HW 10: 4.3, 4.4**  
+F 4/4:  Review and catch up    **WebAssign HW 10: 4.3, 4.4**  
 
 ------------------------------------------------------------
-M 4/7:  4.9 Antiderivatives   
-T 4/8:  Review for Exam 2  
-W 4/9:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.4, 4.7   
+M 4/7:  **Exam 2** on Sections 3.1--3.6, 3.9, 4.1--4.4   
+W 4/9:  4.9 Antiderivatives   
 F 4/11: 5.1 Areas and distances     
 
 ------------------------------------------------------------
@@ -83,8 +82,8 @@ F 4/18: 5.4 Indefinite integrals
 
 ------------------------------------------------------------
 M 4/21: 5.5 The substitution rule  
-T 4/22:  **Quiz 4** on Sections 4.9, 5.1--5.4   
-W 4/23: 5.5 More on substitution     **WebAssign HW 12: 5.2--5.4**  
+T 4/22:  **Quiz 4** on Sections 4.7, 4.9, 5.1--5.3   
+W 4/23: 5.5 More substitution     **WebAssign HW 12: 5.2--5.4**  
 F 4/25: 6.1 Area between curves (time permitting)  
 
 ------------------------------------------------------------
