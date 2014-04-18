@@ -88,7 +88,7 @@ F 4/25: 5.5 More substitution     **WebAssign HW 12: 5.2--5.4**
 
 ------------------------------------------------------------
 M 4/28: Review for final exam (last day of class)   
-W 4/30: (no class)
+W 4/30: (no class)  
 Th 5/1: Optional review session 12--1:30pm, LeConte 3rd floor (probably room 312).   
 
 ## May
