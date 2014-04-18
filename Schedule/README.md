@@ -81,14 +81,15 @@ W 4/16: 5.3 The Fundamental Theorem of Calculus **WebAssign HW 11: 4.7, 4.9, 5.1
 F 4/18: 5.4 Indefinite integrals    
 
 ------------------------------------------------------------
-M 4/21: 5.5 The substitution rule  
+M 4/21: 5.4 Indefinite integrals    
 T 4/22:  **Quiz 4** on Sections 4.7, 4.9, 5.1--5.3   
-W 4/23: 5.5 More substitution     **WebAssign HW 12: 5.2--5.4**  
-F 4/25: 6.1 Area between curves (time permitting)  
+W 4/23: 5.5 The substitution rule  
+F 4/25: 5.5 More substitution     **WebAssign HW 12: 5.2--5.4**  
 
 ------------------------------------------------------------
-M 4/28: Review  
-W 4/30  (no class)  
+M 4/28: Review for final exam (last day of class)   
+W 4/30: (no class)
+Th 5/1: Optional review session 12--1:30pm, LeConte 3rd floor (probably room 312).   
 
 ## May
 F 5/2 **Final exam 4:00--6:30 LeConte 113**  
