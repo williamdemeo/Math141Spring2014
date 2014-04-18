@@ -82,7 +82,6 @@ F 4/18: 5.4 Indefinite integrals
 
 ------------------------------------------------------------
 M 4/21: 5.4 Indefinite integrals    
-T 4/22:  **Quiz 4** on Sections 4.7, 4.9, 5.1--5.3   
 W 4/23: 5.5 The substitution rule  
 F 4/25: 5.5 More substitution     **WebAssign HW 12: 5.2--5.4**  
 
